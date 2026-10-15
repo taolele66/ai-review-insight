@@ -1,0 +1,10 @@
+{
+  "source_all": 23911390,
+  "skincare": 4722502,
+  "raw": 2688202,
+  "non_empty": 2684843,
+  "in_date_range": 2684843,
+  "dedup": 2658782,
+  "min_length": 2416658,
+  "sample": 30000
+}

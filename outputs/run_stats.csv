@@ -1,0 +1,11 @@
+time,provider,model,prompt,tag,n,n_api_calls,n_failed,wall_sec,tokens_in,tokens_out,cost_cny,sec_per_1k,cost_per_1k_cny
+2026-10-15T13:26:26,deepseek,deepseek-chat,v1,eval,300,300,0,58.7,397441,28060,1.0194,195.7,3.398
+2026-10-15T13:27:24,deepseek,deepseek-chat,v2,eval,300,300,0,57.7,663541,27151,1.5443,192.4,5.148
+2026-10-15T13:42:11,deepseek,deepseek-chat,v1,eval,300,0,0,0.0,0,0,0.0,,
+2026-10-15T13:42:12,deepseek,deepseek-chat,v2,eval,300,0,0,0.0,0,0,0.0,,
+2026-10-15T13:45:56,qwen,qwen-plus,v1,eval,300,300,7,220.4,424164,26330,0.392,734.5,1.307
+2026-10-15T13:49:42,qwen,qwen-plus,v2,eval,300,300,1,222.4,664249,24567,0.5805,741.4,1.935
+2026-10-15T13:59:22,deepseek,deepseek-chat,v1,eval,300,300,0,68.7,420541,27686,1.0626,228.8,3.542
+2026-10-15T14:00:33,deepseek,deepseek-chat,v2,eval,300,300,0,69.2,763141,27143,1.7434,230.7,5.811
+2026-10-15T14:04:25,qwen,qwen-plus,v1,eval,300,300,7,228.1,447600,26036,0.4102,760.5,1.367
+2026-10-15T14:08:33,qwen,qwen-plus,v2,eval,300,300,1,244.6,759963,24812,0.6576,815.3,2.192
